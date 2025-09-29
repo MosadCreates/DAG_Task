@@ -1,5 +1,3 @@
-# BigData Assignment Submission
-
 ## Overview
 This repository contains the implementation of two main tasks for the BigData assignment:
 
